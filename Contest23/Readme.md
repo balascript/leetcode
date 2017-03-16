@@ -1,4 +1,4 @@
-**Reverse String II **
+#Reverse String II
 
 Difficulty: Easy
 
@@ -11,7 +11,7 @@ The string consists of lower English letters only.
 Length of the given string and k will in the range [1, 10000]
 
 
-**Construct Binary Tree from String **
+#Construct Binary Tree from String
 
 Difficulty: Medium
 You need to construct a binary tree from a string consisting of parenthesis and integers.
